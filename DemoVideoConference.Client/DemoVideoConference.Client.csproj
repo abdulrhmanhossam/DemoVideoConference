@@ -26,8 +26,4 @@
     <ProjectReference Include="..\DemoVideoConference.Shared\DemoVideoConference.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Pages\Admin\Authentication\" />
-  </ItemGroup>
-
 </Project>
