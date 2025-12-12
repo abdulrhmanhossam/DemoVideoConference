@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="License.txt" />
+  </Folder>
   <Project Path="DemoVideoConference.Client/DemoVideoConference.Client.csproj" />
   <Project Path="DemoVideoConference.Server/DemoVideoConference.Server.csproj" Id="255c1bc8-4c8e-490c-b47c-74b65192e9c5" />
   <Project Path="DemoVideoConference.Shared/DemoVideoConference.Shared.csproj" />
